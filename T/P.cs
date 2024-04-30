@@ -1,0 +1,1 @@
+using T;using Microsoft.AspNetCore.Builder;using Microsoft.Extensions.DependencyInjection;var b=WebApplication.CreateBuilder(args);b.Services.AddRazorComponents().AddInteractiveServerComponents();var a=b.Build();a.UseAntiforgery();a.MapRazorComponents<A>().AddInteractiveServerRenderMode();a.Run();
