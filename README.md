@@ -7,7 +7,5 @@ Designed to be as efficient as possible, the project is fully compressed with no
 ## Contributions
 Contributions are welcome! If you have ideas on how to compress the game, please feel free to fork the repository, make changes, and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
-
-Enjoy playing Tic-Tac-Toe in the most efficient way possible.
