@@ -361,4 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/T/Properties/launchSettings.json
+/T/Properties/
