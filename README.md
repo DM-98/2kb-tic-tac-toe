@@ -6,6 +6,8 @@ Designed to be as efficient as possible, the project is fully compressed with no
 
 ![image](https://github.com/DM-98/2kb-tic-tac-toe/assets/10290906/ccf2f487-9c19-40a7-b9a7-7dea2d560777)
 
+![image](https://github.com/DM-98/2kb-tic-tac-toe/assets/10290906/7487b9b4-d391-423d-8491-5c715accc2f2)
+
 ## Contributions
 Contributions are welcome! If you have ideas on how to compress the game, please feel free to fork the repository, make changes, and submit a pull request.
 
