@@ -9,7 +9,7 @@ Designed to be as efficient as possible, the project is fully compressed with no
 ![image](https://github.com/DM-98/2kb-tic-tac-toe/assets/10290906/7487b9b4-d391-423d-8491-5c715accc2f2)
 
 ## Contributions
-Contributions are welcome! If you have ideas on how to compress the game, please feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! If you have ideas on how to compress the game further, please feel free to fork the repository, make changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
