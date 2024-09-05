@@ -1,4 +1,4 @@
-# 2 KB Tic-Tac-Toe: Blazor .NET 8 Web App
+# 2 KB Tic-Tac-Toe: Blazor Web App in .NET 8
 
 Welcome to the world's smallest Tic-Tac-Toe game, expertly crafted using Blazor .NET 8. 
 This ultra-compact web application delivers a seamless and straightforward gaming experience, requiring only 2 KB of space. 
